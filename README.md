@@ -1,6 +1,6 @@
 # Telegram Helpdesk Bot
 
-Simple telegram bot that responds to help requests in a group chat and continues the conversation in private messages.
+Telegram bot that responds to help requests in a group chat and continues the conversation in private messages.
 
 ## Fetures
 
