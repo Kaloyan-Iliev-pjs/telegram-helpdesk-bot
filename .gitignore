@@ -1,0 +1,4 @@
+key_bot.txt
+admin_user.txt
+*.env
+__pycache__/
